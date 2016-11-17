@@ -16,9 +16,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-}
-
 img {
   display: inline-block;
   width: 100%;
@@ -40,12 +37,12 @@ img {
   }
 
   .fourth {
-    display: inline-block;;
+    display: inline-block;
 
   }
 
   .third {
-    display: inline-block;;
+    display: inline-block;
   }
 
 }
